@@ -1,7 +1,7 @@
 
 public class Employee  extends  XYZ_COMPny
 {
-	
+///Soumya	
 String name;
 int eid;
 String empid;
